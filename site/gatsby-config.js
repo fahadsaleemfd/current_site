@@ -2,7 +2,7 @@
 const fontFile = require("./src/@elegantstack/solid-ui-theme/typography-fonts.json");
 // Import the shadowed color file
 //const customColorFile =  require('./src/@elegantstack/solid-ui-theme/colors.js')
-
+require("dotenv").config();
 module.exports = {
   plugins: [
     {
