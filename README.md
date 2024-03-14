@@ -1,0 +1,134 @@
+# current_site
+
+
+
+## Getting started
+
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+
+## Add your files
+
+- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+
+```
+cd existing_repo
+git remote add origin https://gitlab.com/hplcompany/current_site.git
+git branch -M main
+git push -uf origin main
+```
+
+## Integrate with your tools
+
+- [ ] [Set up project integrations](https://gitlab.com/hplcompany/current_site/-/settings/integrations)
+
+## Collaborate with your team
+
+- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
+- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
+- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
+- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+
+## Test and Deploy
+
+Use the built-in continuous integration in GitLab.
+
+- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
+- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
+- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
+- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+
+***
+
+# Editing this README
+
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+
+## Suggestions for a good README
+
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+
+## Name
+despite having 3 identical names, and several failed revisions, this is hpl company site we believe in. it has our love, it has our heart. 
+
+## Description
+our goal is to get a landing page style MVP website up that can: 
+* clearly highlight company capabilities (it's been four years!)
+* tell the story of the organization 
+* provide a basic contact form, and some marketing tracking to faciliate supplier portal registration 
+* be compelted ahead of ideally 2/12, to coincide with Disability.In matchmaking 
+
+## Badges
+
+Draft language: On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+
+That would be neat. 
+
+## Visuals
+
+Also would be neat. 
+Draft: Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+
+## Installation
+Little bit of a wild west right now. Clone the repo, get you gatsby & the various node dependencies, and you should probably be off to the races. 
+
+Draft Language: Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+
+## Usage
+Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+
+## Support
+Find god in the church of your choice, find Woody Guthrie in the library of congress, and for all else, there's the project Jira. 
+
+## Roadmap
+* Update colors to match the earth tones you used in the site logo 
+* Update images on index page, company page
+* Services page needs major interventions, it is missing key assets and not rendering 
+* Company logo crawl needs adjusted…not sure what the move there is (index page) 
+* Google maps on the contact page isn’t working, loading in an image there may be a good idea
+* DO YOU HAVE A FORWARDING ADDRESS? PHONE NUMBER? NAT MIGHT BE WORTH DOING NOW. 
+    * Can I just clone our home phone system, swap out the contact details and then call it a day? It may be over kill since I don’t need the depth, but I’d much rather set that up and pay DO than do an off the shelf I can’t afford, and I think that probably is ok) 
+    * Looking at virtual addresses
+* BLOG NEEDS A PLAN — the easiest may be flexblog, but keeping that up and doing SEO on it is going to be a chore
+* This website has no google analytics and probably needs a basic tracking plan 
+* Boiler plate copy should be updated to match capabilities document copy 
+* Site is missing privacy, cookie, and terms of use pages. You need these to publish 
+* Custom icons (thankfully you have illustrator) comms modal is updated here (still needs hero image), values are done, you still need capabilities. 
+
+### Site design idea: 
+
+OK, so you need to flesh out the services page. There’s not a good sub page template, but you might be able to abuse services 01 and services 02 to re-create a staffing augmentation and media buying landing page for people to click through to from the services page. This should be fairly light, but we’ll see. 
+Depending on how a blog is set up, you’re probably going to need the better part of three different places where you’re driving, because there isn’t a good social flow yet. There are some links between the page layers in the navigation so that may be worth working through one more time as well
+
+It looks like modals for privacy policy aren't working. Not sure why, this may be related to pointing away from core assets and to unique theme content shadowing. Needs investigating. 
+
+## Contributing
+The stock advice is below, because at this point, need is greater than ability to articulate. Grab a shovel, friend. 
+
+-
+State if you are open to contributions and what your requirements are for accepting them.
+
+For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+
+You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+
+## Authors and acknowledgment
+Big thanks to the Flexiblocks and Flexiblog teams whose theme's we are absolutely licenseing, mutilating, and hammering into something that resembles a finished product at the end of the day. It's been a long time since I've product managed one of these this intently, it's good practice, but good grief has it exceeded what scope I thought it would have. 
+
+We're probably also owing a serious debt of gratitutde to quick thinking, and some overly generous AI assets Adobe offers. Being able to go through and quickly get an image set together that is unique, and on the level is going to be something else. 
+
+I'm not sure what it's going to take to get the blog off the ground, how valuable that kind of content really is, and whether or not there's even going to be a market for it. 
+
+There's clearly going to need to be some translating here, and internationalization, and I think that's going to have to be a future project. I am sure there are going to be folks who hand-raise along the way. 
+
+## License
+For open source projects, say how it is licensed.
+
+Gatsby is a great community, we inherit a lot of licenseing as a result, that should really be attributed. We're not doing anything particualrly novely here, but despite the 'don't steal our content' language, methodology is something we're happy to share alike. This section needs some updating. 
+
+## Project status
+It's a critical time for this one, given the added need in prospecting, so it's going to be a little all-hands-on-deck-and-fill-in-the-pieces-until-we-get-there. Worst way to scope something, but sometimes you've gotta box your corner. 

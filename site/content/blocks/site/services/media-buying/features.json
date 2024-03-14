@@ -1,0 +1,129 @@
+{
+  "text": [
+    {
+      "text": "Media Buying",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "We can help you buy and sell ads, wherever you run them.",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "Data driven strategy, Deep Industry Insight.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper",
+        "bg": "white"
+      },
+      "text": [
+        {
+          "text": "Best-in-Class",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Growth Strategy",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to understand your goals.",
+          "color": "omegaDark"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Growth.svg",
+        "size": "lg",
+        "color": "beta"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper",
+        "bg": "white"
+      },
+      "text": [
+        {
+          "text": "Data Driven",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Audience Targeting",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll help you find exactly where your customers are online, and help you connect with them.",
+          "color": "omegaDark"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_communicationsPerson.svg",
+        "size": "lg",
+        "color": "alpha"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper",
+        "bg": "white"
+      },
+      "text": [
+        {
+          "text": "Meticulous",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Media Buying",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to make sure we buy the right ad, every time.",
+          "color": "omegaDark"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Product Marketing.svg",
+        "size": "lg",
+        "color": "alpha"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper",
+        "bg": "white"
+      },
+      "text": [
+        {
+          "text": "Constant",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Improvement",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll check in regularly, as we work together to optimize our ads to reach your business goals.",
+          "color": "omegaDark"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_values_Involved.svg",
+        "size": "lg",
+        "color": "beta"
+      }
+    }
+  ]
+}

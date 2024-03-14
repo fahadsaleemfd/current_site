@@ -1,0 +1,34 @@
+{
+  "container": {
+    "bg": "linear-gradient(25deg, {{omegaDark}} 0%, {{omegaDarker}} 100%)"
+  },
+  "text": [
+    {
+      "text": "Schedule Your Free Consultation",
+      "color": "omega",
+      "variant": "h3"
+    },
+    {
+      "text": "Need some help? We're ready to talk!",
+      "color": "white",
+      "variant": "h1"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/services/landingicons/SVG/hplcompany_contactcardhalfsize.svg",
+      "alt": "a collection of communication assets form the background of a banner that invites users to click to schedule their free consultation.",
+      "radius": "md",
+      "shadow": "md",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Schedule Today",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary-light"
+    }
+  ]
+}

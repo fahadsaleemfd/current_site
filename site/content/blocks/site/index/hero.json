@@ -1,0 +1,27 @@
+{
+  "text": [
+    {
+      "text": "We help our clients connect with their customers.",
+      "variant": "h1"
+    },
+    {
+      "text": "Advertising, data science, and growth marketing solutions for today's biggest brands.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/homepage/hplcompany_homepage hero.svg",
+      "alt": "alt text",
+      "objectPosition": "center bottom"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Get Help Now",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary-light"
+    }
+  ]
+}

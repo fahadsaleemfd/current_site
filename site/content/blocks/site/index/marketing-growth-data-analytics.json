@@ -1,0 +1,77 @@
+{
+  "text": [
+    {
+      "text": "Grow Your Reach",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Data and analytics help your business tell stories that **have soul**",
+      "variant": "h2"
+    },
+    {
+      "text": "We help your team to learn about your audience, and who they are. You'll develop insights that set you apart from the competition--at a human level.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/homepage/hplcompany_datateam.svg",
+      "radius": "lg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_CampaignBenchmarking.svg",
+        "color": "beta",
+        "bg": "betaLighter"
+      },
+      "text": [
+        {
+          "text": "Campaign Benchmarking & Reporting",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Whether it's your first project, or you've got an established data warehouse, we'll work with your team to develop reporting solutions that make sense."
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_DataAnalytics.svg",
+        "color": "alpha",
+        "bg": "alphaLighter"
+      },
+      "text": [
+        {
+          "text": "Marketing Analytics",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to develop strategies that help you to organize, action, and implement insights we generate together."
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_DataServices.svg",
+        "color": "alpha",
+        "bg": "alphaLighter"
+      },
+      "text": [
+        {
+          "text": "Data Services",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We can help your team navigate data analysis, cleaning, and validation projects."
+        }
+      ]
+    }
+  ]
+}

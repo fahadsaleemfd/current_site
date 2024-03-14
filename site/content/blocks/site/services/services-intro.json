@@ -1,0 +1,19 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "We Guarantee a Collaborative Work Process",
+          "color": "omegaDark",
+          "variant": "h4"
+        },
+        {
+          "text": "Listening, Planning, Iterating.",
+          "color": "beta",
+          "variant": "h2",
+          "space": 0
+        }
+      ]
+    }
+  ]
+}

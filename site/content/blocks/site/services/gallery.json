@@ -1,0 +1,94 @@
+{
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "Data & Growth Services",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "At the hpl company, we're adept at leveraging data to drive decision making."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/services/landingicons/SVG/hplcompany_Data_Analysis.svg",
+          "alt": "An earth tone colored illustration featuring a man presenting data on a slide using a pointer."
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "primary-light"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "SEO & Media Buying Managed Services",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "At the hpl company, we've helped some of today's biggest brands drive benchmark breaking performance at scale. Learn how we can help your team do the same."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/services/landingicons/SVG/hplcompany_Media_Buying_Alt.svg",
+          "alt": "An earth tone colored illustration showing a man in a blue suit working on a laptop, purchasing digital advertisments."
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "/services/media-buying/",
+          "variant": "primary-light"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "Staff Augmentation",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "Our expertise can help your team to quickly staff up for a key project, or execute on a new initative."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/services/landingicons/SVG/hplcompany_StaffAugmentation.svg",
+          "alt": "an earth tone colored illustration featuring a man in a blue suit presenting a report to a table with four other people sitting at it in a conference room."
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "/services/staff-augmentation",
+          "variant": "primary-light"
+        }
+      ]
+    }
+  ]
+}

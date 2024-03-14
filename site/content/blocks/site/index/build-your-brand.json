@@ -1,0 +1,98 @@
+{
+  "text": [
+    {
+      "text": "Tell Your Story",
+      "variant": "h2"
+    },
+    {
+      "text": "We help our clients spread messages that matter.",
+      "variant": "medium"
+    },
+    {
+      "text": "We help our clients achieve tangible, high-impact results.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/homepage/hplcompany_TellYourStory.svg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Audience Analysis",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Your campaign depends on connecting with an audience, we'll help you learn more about the people you're communicating with."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Data Analytics, SEO, and Implementation",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to define success, develop benchmarks, and track & report performance in a way that makes sense for your business. We'll help you work towards making progress on ranking for the terms that matter."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Marketing Strategy",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to identify which opportunities will have the biggest impact on driving your goals."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Media Buying",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Our team of experts is experienced at buying auction & reserve media across today's leading advertising platforms."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Conversion Rate Optimization",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Traffic is one thing, sales are another. We help your team drive results by monitoring your analytics and testing new things."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Iterative Process",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "We're always looking ahead for the next opportunity."
+        }
+      ]
+    }
+  ]
+}

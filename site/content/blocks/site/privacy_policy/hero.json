@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Privacy Policy",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "By one survey less than half of viewers read privacy policies, but more than 80% of today's customers believe brands behave badly with their data. We want to change that.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "have a privacy question?",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/cookieprivacy/hplcompany_PrivacyPolicy.svg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "xl",
+      "effects": ["fadeInLeft"]
+    }
+  ]
+}

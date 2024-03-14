@@ -1,0 +1,98 @@
+{
+  "text": [
+    {
+      "text": "Our Focus",
+      "variant": "h2"
+    },
+    {
+      "text": "Our team is a premier media buying agency specialized in maximizing the impact of advertising through the strategic utilization of data. Our team of experts excel in creating targeted campaigns across various digital platforms, including Meta, TikTok, LinkedIn, and Google.",
+      "variant": "medium"
+    },
+    {
+      "text": "We provide custom reporting and develop software based solutions to help our clients communicate, at scale, with the people who matter to their business.",
+      "variant": "medium"
+    }
+  ],
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Growth.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "Growth Strategy",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to figure out what's working, and how to do more of it."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Product Marketing.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "Media Buying",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll help you buy and sell ads across the internet."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_DataAnalytics.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "Data Analytics",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll help your team measure what works."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_communicationsPerson.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "Staff Augmentation",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll help supplement your team to help reach your goals."
+        }
+      ]
+    }
+  ]
+}

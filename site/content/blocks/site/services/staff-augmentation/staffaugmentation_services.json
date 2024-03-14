@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "text": "Strategic Planning",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "We'll work with your team to identify the job to be done, and the resources required to reach your organization's goals.",
+      "color": "omegaDark",
+      "space": 4
+    },
+    {
+      "text": "Project Scoping",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "We'll work with your team to develop a plan focused on realistic deliverables, and a time frame that works.",
+      "color": "omegaDark",
+      "space": 4
+    },
+    {
+      "text": "Project Management",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "We'll work with your team to make sure deadlines are met, and integrate deeply into team meetings and functions.",
+      "color": "omegaDark",
+      "space": 4
+    },
+    {
+      "text": "Program Oversight",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "At the hpl company, we're capable of executing at every level of a marketing organization, and can provide additional direction and oversight to programs that require it.",
+      "color": "omegaDark"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/services/landingicons/SVG/hplcompany_services_contact_card.svg",
+      "alt": "alt text",
+      "radius": "lg"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Scedule a Free Consultation",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary-gradient"
+    }
+  ]
+}

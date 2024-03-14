@@ -1,0 +1,20 @@
+{
+  "text": [
+    {
+      "text": "Working together as a team to reach your goals.",
+      "color": "alpha",
+      "variant": "h5"
+    },
+    {
+      "text": "We help our clients achieve tangible, high-impact results."
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Contact Us Now",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary-light"
+    }
+  ]
+}

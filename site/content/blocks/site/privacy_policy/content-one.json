@@ -1,0 +1,31 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Privacy Policy",
+          "color": "alpha",
+          "variant": "h4"
+        },
+        {
+          "text": "Information We Collect",
+          "color": "omegaDarker",
+          "variant": "h3"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "This Privacy Policy describes how the hpl company, herein referred to as 'we,' 'us,' or 'our', collects, uses, and safeguards the personal information of visitors to our website. By accessing or using our website, you agree to the terms and practices outlined in this Privacy Policy.",
+          "color": "omegaDark",
+          "variant": "p"
+        },
+        {
+          "text": "When you visit our website, we may collect certain information automatically, including your IP address, browser type, device type, pages visited, and the date and time of your visit. We may also use cookies and similar tracking technologies to enhance your browsing experience and collect additional information about your interactions with our website.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

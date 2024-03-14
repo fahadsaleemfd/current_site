@@ -1,0 +1,98 @@
+{
+  "text": [
+    {
+      "text": "Our Values",
+      "variant": "h2"
+    },
+    {
+      "text": "at the hpl company, we believe that who we are influences every aspect of our work. from the experiences we've had to the memories we've made, the setbacks we've experienced, the things we hold on to are part of our work, because they are a part of who we are, and who we are striving to be.",
+      "variant": "medium"
+    },
+    {
+      "text": "We help our clients as they encounter unfamiliar, urgent, and often intimidating challenges. We work on new problems. We rely on our values to help us know how to act in an environment that is changing faster than we can keep up with. They guide our decision making, but beyond that, they help us deliver work that drives impact.",
+      "variant": "medium"
+    }
+  ],
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_values_Involved.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "We Get Involved",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We show up. We don't leave anything on the table. We're passionate about what we do, and if there's a job to be done, we roll up our sleeves and get to work."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_values_Stewardship.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "We Practice Stewardship",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "Our clients trust us with some of their data, resources, and vision. We strive to be responsible stewards of this trust, and treat their business objectives as our own. Beyond that, we have a commitment to the amplify, reverence, and nurture the cultures, audiences, and data we rely on to do our work."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_values_Inquisitive.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "We're Inquisitive",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "Thanks to our work, our world gets a little more connected every day. We ask questions, and are always looking for new solutions to old problems. We share the joy of communication with our clients and we try to find the wonder in our work."
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hpl_values_Sincerity.svg",
+        "bg": "omegaLighter",
+        "color": "omegaDark"
+      },
+      "text": [
+        {
+          "text": "We're Sincere",
+          "color": "alpha",
+          "variant": "h5"
+        },
+        {
+          "text": "We work on projects that we believe in, with partners who share our values. We show up with our whole selves, and strive to act with integrity."
+        }
+      ]
+    }
+  ]
+}

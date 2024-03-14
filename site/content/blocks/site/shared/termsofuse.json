@@ -1,0 +1,99 @@
+{
+  "text": [
+    {
+      "text": "Terms of Use",
+      "color": "#805AD5",
+      "variant": "h2",
+      "space": 3
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Welcome to the hpl company!",
+          "variant": "h2",
+          "space": 1
+        },
+        {
+          "text": "These Terms of Use govern your use of our website. By accessing or using our website, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use our website.",
+          "space": 1
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Terms of Use",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text": "Use of Website",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text": "You agree to use our website for lawful purposes only and in a manner that does not violate any applicable laws or regulations. You further agree not to engage in any activity that may interfere with the operation or security of our website. If you opt in to tracking, you agree to be bound by the terms of the Cookie and Privacy policies.",
+          "space": 1
+        },
+        {
+          "text": "Intellectual Property",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text": "All content, logos, trademarks, and other materials displayed on our website are the property of the hpl company or its licensors and are protected by intellectual property laws. You may not use, reproduce, distribute, or modify any of the content on our website without prior written consent from us.",
+          "space": 1
+        },
+        {
+          "text": "Third-Party Links",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text": "Our website may contain links to third-party websites or services for your convenience. We do not endorse or control these third-party sites and are not responsible for their content or practices. Your use of third-party sites is subject to their terms and policies.",
+          "space": 1
+        },
+        {
+          "text": "Disclaimer of Warranties",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text": "Our website is provided on an 'as is' and 'as available' basis, without any warranties of any kind, express or implied. We do not warrant that our website will be uninterrupted, error-free, or free of viruses or other harmful components.",
+          "space": 1
+        },
+        {
+          "text": "Limitation of Liability",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "In no event shall the hpl company be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of our website, even if we have been advised of the possibility of such damages.",
+          "space": 1
+        },
+        {
+          "text": "Changes to Terms of Use",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "We reserve the right to update or modify these Terms of Use at any time without prior notice. Your continued use of our website after any changes indicates your acceptance of the updated terms. It is your responsibility to review these terms periodically for any updates.",
+          "space": 1
+        },
+        {
+          "text": "Governing Law",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "These Terms of Use shall be governed by and construed in accordance with the laws of Denver, Colorado, without regard to its conflict of law provisions."
+        },
+        {
+          "text": "If you have any questions about these Terms of Use, contact us at privacy@hplcompany.com."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Do you have expertise in my industry?",
+          "variant": "h4"
+        },
+        {
+          "text": "At the hpl company, we've developed strategies based on deep industry experience. We'd be happy to explore your specific challenges during a free consultation."
+        }
+      ],
+      "icon": {
+        "src": "../../assets/hpl_communicationsPerson.svg",
+        "size": "lg",
+        "color": "omegaDark"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Can you participate in ongoing organizational initatives?",
+          "variant": "h4"
+        },
+        {
+          "text": "Our team is adept at hitting the ground running, and can quickly add value to any organization. If you have an existing framework, we'd be happy to discuss the ways in which we can contribute and add value during a free consultation."
+        }
+      ],
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-mobile-alt.svg",
+        "size": "lg",
+        "color": "omegaDark"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Do you provide reporting?",
+          "variant": "h4"
+        },
+        {
+          "text": "We've worked with teams on solutions ranging in complexity from simple email updates to automated real-time reporting dashboards, and will work with your team to find the right solution for your project."
+        }
+      ],
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-mail-send.svg",
+        "size": "lg",
+        "color": "omegaDark"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Are there any minimum engagement lengths?",
+          "variant": "h4"
+        },
+        {
+          "text": "We've found that our clients experience the best results in engagements lasting longer than 6 months, and encourage new clients to look to a similar length--depending on the scope of their project. Our average staff augmentation engagement is 3 years."
+        }
+      ],
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-directions.svg",
+        "size": "lg",
+        "color": "omegaDark"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    }
+  ]
+}

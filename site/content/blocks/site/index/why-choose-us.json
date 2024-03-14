@@ -1,0 +1,83 @@
+{
+  "text": [
+    {
+      "text": "the hpl advantage",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Why Choose Us?",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Audience First",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Communication is a team sport, and audiences are at the heart of everything we do."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/homepage/whychoose/hplcompany_Audience First.svg",
+        "bg": "omegaLighter",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Responsive Support",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Your business moves quickly, we do too."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/homepage/whychoose/hplcompany_Responsive Support.svg",
+        "bg": "omegaLighter",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Actionable Insights",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We help your team to quickly make sense of large amounts of data."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/homepage/whychoose/hplcompany_Actionable Insights.svg",
+        "bg": "omegaLighter",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Innovative Solutions",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Our collaborative, multi-stakeholder approach drives better results--every time."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/homepage/whychoose/hplcompany_Innovative Solution.svg",
+        "bg": "omegaLighter",
+        "color": "alpha"
+      }
+    }
+  ]
+}

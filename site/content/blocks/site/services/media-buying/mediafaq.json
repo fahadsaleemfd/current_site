@@ -1,0 +1,85 @@
+{
+  "text": [
+    {
+      "text": "We Are Here To Help You",
+      "color": "beta",
+      "variant": "h4"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "variant": "h2"
+    },
+    {
+      "text": "We help startups, corporations and nonprofits navigate a rapidly evolving media buying landscape.",
+      "variant": "medium"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "What platforms do you support?",
+          "variant": "h5"
+        },
+        {
+          "text": "We have expertise flighting media across today's leading auction and reservation social & display media properties."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-phone.svg",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Can I bring my own creative?",
+          "variant": "h5"
+        },
+        {
+          "text": "Absolutely! We'll work with your team to make sure your assets are spec'd correctly for each platform we flight on."
+        }
+      ],
+
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-mobile-alt.svg",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Do you provide reporting?",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to develop a reporting cadence that makes sense for our project."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-mail-send.svg",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "What pricing options are available?",
+          "variant": "h5"
+        },
+        {
+          "text": "We offer both traditional, value & performance based pricing models."
+        }
+      ],
+
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "white",
+        "color": "alpha"
+      }
+    }
+  ]
+}

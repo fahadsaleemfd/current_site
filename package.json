@@ -1,0 +1,16 @@
+{
+  "name": "current_site",
+  "private": true,
+  "license": "",
+  "workspaces": ["packages/**", "site", "current_site"],
+  "scripts": {
+    "clean": "lerna clean",
+    "release": "lerna version"
+  },
+  "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^4.6.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

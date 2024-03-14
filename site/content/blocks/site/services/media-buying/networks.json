@@ -1,0 +1,81 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Meta"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-airbnb.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Google"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-amazon-web-services.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "TikTok"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-shopify.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "LinkedIn"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-confluence.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "X"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Quora"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Display"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "alt": "alt text"
+      }
+    }
+  ]
+}

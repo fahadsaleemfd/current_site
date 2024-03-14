@@ -1,0 +1,27 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Our Motto",
+          "color": "omegaDarker",
+          "variant": "h2",
+          "space": 3
+        },
+        {
+          "text": "We are responsible for what we say & do.",
+          "color": "omegaDark",
+          "variant": "medium"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Our clients trust us to help them connect with the people who matter the most--their customers. We endeavour to operate with sincerity. We promote products & work with teams who share our values. We strive to be good stewards of our client's resources and reputations. We seek to get involved & connect with the communities & audiences we interact with. We focus on finding new answers & new solutions to old problems. We strive to operate with the highest standards of compliance and ethics. We adhere strictly to privacy regulations and industry guidelines, ensuring the responsible use of data in all our advertising endeavors.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

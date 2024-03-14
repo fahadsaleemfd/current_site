@@ -1,0 +1,25 @@
+{
+  "text": [
+    {
+      "text": "Audience First",
+      "color": "beta",
+      "variant": "h4"
+    },
+    {
+      "text": "Media buying that connects brands and consumers",
+      "variant": "h2"
+    },
+    {
+      "text": "At the hpl company, we believe that communication requires more than one participant. We'll work with your team to develop a clear understanding of our target audience, and develop targeting strategies that help us get the right message in front of the right audience--every time.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/flexiblocks/innerpage/services-01/clients.jpg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "images": [
+    {
+      "src": "../../assets/flexiblocks/shared/logo.png",
+      "alt": "the logo of the hpl company features the name of the hpl company prominently in an expressive font."
+    }
+  ],
+  "collection": [
+    {
+      "buttons": [
+        {
+          "text": "our company",
+          "type": "PAGE",
+          "link": "/about/",
+          "variant": "links.white"
+        },
+        {
+          "text": "our services",
+          "type": "PAGE",
+          "link": "/services/",
+          "variant": "links.white"
+        }
+      ]
+    },
+    {
+      "buttons": [
+        {
+          "text": "get help now",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "secondary"
+        }
+      ]
+    }
+  ]
+}

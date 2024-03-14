@@ -1,0 +1,30 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Our Services",
+          "color": "white",
+          "variant": "h3"
+        },
+        {
+          "text": "Marketing services for fast growing businesses.",
+          "color": "betaLight",
+          "variant": "h1"
+        },
+        {
+          "text": "At the hpl company, we're passionate about connecting audiences, marketers, and messages. Click below to explore how we can help your team, today.",
+          "color": "omega",
+          "variant": "medium"
+        }
+      ]
+    },
+    {"images": [
+      {
+      "src": "../assets/services/landingicons/SVG/hplcompany_contactcardhalfsize.svg",
+      "alt": "a collection of communication assets form the background of a banner that invites users to click to schedule their free consultation."
+      }
+    ]   
+    }
+  ]
+}

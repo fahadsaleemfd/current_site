@@ -1,0 +1,32 @@
+{
+  "text": [
+    {
+      "text": "Staffing Augmentation",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Fill **Key Roles** With Our Team",
+      "variant": "h2"
+    },
+    {
+      "text": "At the hpl company, we've helped teams ranging in scale from early stage startup to enterprise brands navigate today's rapidly evolving communications landscape. We can help your team fill key gaps in marketing strategy, data analytics, and paid media roles--with durations that make sense for your business.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/homepage/hplcompany_teamAugmentation.svg",
+      "alt": "alt text",
+      "radius": "lg"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "get help today",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary-light"
+    }
+  ]
+}

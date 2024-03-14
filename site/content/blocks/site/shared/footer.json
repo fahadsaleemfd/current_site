@@ -1,0 +1,103 @@
+{
+  "images": [
+    {
+      "src": "../../assets/flexiblocks/shared/logo.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Quick Links"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "PAGE",
+          "link": "/",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Blog",
+          "type": "MODAL",
+          "link": "advertisement",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Contact Us",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "links.nav-light"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Legal Stuff"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Privacy Notice",
+          "type": "PAGE",
+          "link": "/privacy_policy",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Cookie Policy",
+          "type": "PAGE",
+          "link": "/cookie_policy",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Terms Of Use",
+          "type": "MODAL",
+          "link": "termsofuse",
+          "variant": "links.nav-light"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Social Media"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "LinkedIn",
+          "type": "PAGE",
+          "link": "https://www.linkedin.com/company/the-hpl-company",
+          "variant": "links.nav-light",
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/fa-LinkedIn.svg",
+            "color": "#2f4f4f"
+          }
+        },
+        {
+          "text": "Facebook",
+          "type": "PAGE",
+          "link": "https://facebook.com/thehplcompany/",
+          "variant": "links.nav-light",
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/metalogo.svg",
+            "color": "#1da1f2"
+          }
+        },
+        {
+          "text": "Instagram",
+          "type": "PAGE",
+          "link": "https://instagram.com/gatsby",
+          "variant": "links.nav-light",
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/bxl-instagram.svg",
+            "color": "#c13584"
+          }
+        }
+      ]
+    }
+  ]
+}

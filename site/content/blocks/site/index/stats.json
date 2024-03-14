@@ -1,0 +1,72 @@
+{
+  "text": [
+    {
+      "text": "HIGH IMPACT RESULTS",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Strategies Focused on Driving Your Goals",
+      "color": "omegaDarker",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "516",
+          "color": "alpha",
+          "variant": "h1"
+        },
+        {
+          "text": "Average Increase in Click Through Rate",
+          "color": "omegaDark",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "90",
+          "color": "alpha",
+          "variant": "h1"
+        },
+        {
+          "text": "Average Decrease in Cost Per Click",
+          "color": "omegaDark",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "72%",
+          "color": "alpha",
+          "variant": "h1"
+        },
+        {
+          "text": "Average Decrease in Cost Per Follower",
+          "color": "omegaDark",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "84%",
+          "color": "alpha",
+          "variant": "h1"
+        },
+        {
+          "text": "Average Decrease in Cost Per View",
+          "color": "omegaDark",
+          "variant": "h5"
+        }
+      ]
+    }
+  ]
+}

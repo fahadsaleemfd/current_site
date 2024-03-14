@@ -1,0 +1,141 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "TikTok Media Buying",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Our team has deep expertise leveraging this rapidly growing platform to drive brand messaging priorities and conversion results at scale."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/tiktoklogo.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Meta Media Buying",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Our team can help fill key gaps in your campaign purchasing, strategy, and execution."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/metalogo.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Google Media",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "From organic SEO strategies to paid media opportunities across the Display & YouTube ecosystems, our team is ready to help you reach your Google goals."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/googleG.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "In-App Marketing",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Connect with your customers while they're already using your app to drive key funnel activities."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_InAppMarketing.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Marketing Strategy",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We can help your team develop a playbook to reach your goals."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_MarketingStrategy.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Product Marketing",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We'll work with your team to develop a strategy to increase viral loops, and develop playbooks to increase engagement and funnel activity."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Product Marketing.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Growth Optimization",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Have a big goal? We'll help your team apply the principles of conversion rate optimization to test, measure, and implement strategies & tactics to make it achievable."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_Growth.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Data Analytics",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "We can help your team fill key gaps in your measurement organization."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/hplcompany_DataAnalytics.svg",
+        "bg": "betaLighter",
+        "color": "beta"
+      }
+    }
+  ]
+    }
+

@@ -1,0 +1,158 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Get Help"
+        },
+        {
+          "text": "Get Help Now",
+          "color": "omegaDarker",
+          "variant": "h2",
+          "space": 3
+        },
+        {
+          "text": "Ready to talk about a project today?",
+          "color": "omegaDark"
+        },
+        {
+          "text": "We'll get back you within 24 working hours.",
+          "color": "omega"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../assets/shared/hplcompany_Contact2.svg",
+          "alt": "alt text"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "identifier": "name",
+            "type": "TEXT",
+            "placeholder": {
+              "text": "Full Name"
+            },
+            "icon": {
+              "src": "../../assets/flexiblocks/icons/hpl_communicationsPerson.svg",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "email",
+            "type": "EMAIL",
+            "placeholder": {
+              "text": "Email Address"
+            },
+            "icon": {
+              "src": "../../assets/flexiblocks/icons/hpl_communicationsMessageAlternative.svg",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "subject",
+            "type": "TEXT",
+            "placeholder": {
+              "text": "Subject"
+            },
+            "icon": {
+              "src": "../../assets/flexiblocks/icons/hpl_communicationsSendUsAMessage.svg",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "message",
+            "type": "TEXTAREA",
+            "placeholder": {
+              "text": "How can we help?"
+            }
+          },
+          {
+            "identifier": "form-name",
+            "type": "HIDDEN",
+            "value": "Contact"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Message Our Team",
+            "type": "SUBMIT",
+            "variant": "secondary",
+            "width": "200px"
+          }
+        ]
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Information"
+        },
+        {
+          "text": "Contact Details",
+          "color": "omegaDarker",
+          "variant": "h2",
+          "space": 3
+        },
+        {
+          "text": "Have more to say?",
+          "color": "omegaDark"
+        },
+        {
+          "text": "Give us a call or send an email.",
+          "color": "omega"
+        }
+      ],
+      "map": {
+        "lat": 39.7392,
+        "lng": 104.9903,
+        "zoom": 12
+      },
+      "collection": [
+        {
+          "text": [
+            {
+              "text": "+123 (4567) 8910",
+              "color": "omegaDarker",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/hpl_communicationsTelephone.svg",
+            "color": "alpha",
+            "bg": "transaprent"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "hello@hplcompany.com",
+              "color": "omegaDarker",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/hpl_communicationsMessage.svg",
+            "color": "alpha",
+            "bg": "transaprent"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "1541 N Marion St Unit 18011\nDenver, Colorado\n80218",
+              "color": "omegaDarker",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../assets/flexiblocks/icons/hpl_communicationsCitySkyline.svg",
+            "color": "alpha",
+            "bg": "transaprent"
+          }
+        }
+      ]
+    }
+  ]
+}

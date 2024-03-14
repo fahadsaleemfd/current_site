@@ -1,0 +1,123 @@
+{
+  "text": [
+    {
+      "text": "Cookie Policy",
+      "color": "#805AD5",
+      "variant": "h2",
+      "space": 3
+    }
+  ],
+  "images": [
+    {
+      "src": "../../assets/flexiblocks/blog/flexiBlog-ad-skip-pkg.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-layer-plus.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "What is this?",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "This Cookie Policy explains how cookies and similar technologies are used on the website of the hpl company, herein referred to as ‘the Website,’ and by using the Website, you consent to the use of cookies as described in this policy. Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently and to provide information to the owners of the site. Cookies are commonly used to store user preferences, track website usage, and enable features. The Website uses cookies to enhance your browsing experience, provide personalized content, analyze site usage, and assist in our marketing efforts. We utilize Google Tag Manager, a service provided by Google LLC, and Segment, a service provided by Twilio, to manage the tags used for tracking and analytics purposes.",
+          "space": 1
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-pen.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "Types of Cookies Used",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "Essential Cookies",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text":"These cookies are necessary for the functioning of the Website and cannot be switched off without impairing the basic functionality of the site. These cookies do not gather any information about you that could be used for marketing or remembering your browsing history.",
+          "space": 1
+        },
+        {
+          "text": "Performance and Analytics Cookies",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text":"We use performance and analytics cookies to collect information about how visitors use the Website. This helps us improve the performance of our site and understand which pages are most and least popular. The data collected is aggregated and anonymous, and it does not contain any personally identifiable information.",
+          "space": 1
+        },
+        {
+          "text": "Marketing Cookies",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text":"Marketing cookies are used to track visitors across websites. The information collected is used to display advertisements that are relevant and engaging for the individual user. However, we do not use these cookies to collect personally identifiable information.",
+          "space": 1
+        },
+        {
+          "text": "Third-Party Cookies",
+          "variant": "h5",
+          "space": 1
+        },
+        {
+          "text":"In addition to the cookies we set, third parties may also set cookies when you visit the Website. These third-party cookies enable features such as social media sharing and provide analytics services. We do not have control over these cookies, and they are subject to the respective third party's privacy policies.",
+          "space": 1
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../assets/flexiblocks/icons/bx-rocket.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "Managing Cookies",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "You can control and manage cookies in various ways, including by adjusting your browser settings. Most web browsers allow you to delete or block cookies, although doing so may affect your browsing experience. For more information on how to manage cookies, you can refer to your browser's help documentation.",
+          "space": 1
+        },
+        {
+          "text": "Changes to this Cookie Policy",
+          "variant": "h6",
+          "space": 1
+        },
+        {
+          "text": "We may update this Cookie Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We encourage you to review this policy periodically for any updates. If you have any questions about this Cookie Policy or our use of cookies, please contact us at privacy@hplcompany.com. This Cookie Policy was last updated on February 7th, 2024",
+          "space": 1
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Understood",
+      "type": "PAGE",
+      "link": "https://1.envato.market/LPD9RM",
+      "target": "_blank",
+      "variant": "secondary",
+      "bg": "#805AD5"
+    }
+  ]
+}

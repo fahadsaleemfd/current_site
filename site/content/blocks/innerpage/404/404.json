@@ -1,0 +1,24 @@
+{
+  "text": [
+    {
+      "text": "Error 404: Page Not Found",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Hate to break it to you, but you've managed to end up somewhere we...don't have a page.",
+      "variant": "h2"
+    },
+    {
+      "text": "There's a chance you may have mistyped the address or the page may have moved...it might also...just be missing. Let's try that again"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Go Back Home",
+      "type": "PAGE",
+      "link": "/",
+      "variant": "primary"
+    }
+  ]
+}

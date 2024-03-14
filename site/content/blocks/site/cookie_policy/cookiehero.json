@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Cookie Policy",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "For more than a decade, marketers have increasingly relied on cookies to know what content works. We are no exception, and our site uses a number of tracking techniques we help our clients to use, too. As we move into a cookie-less era, this policy and our practices will change.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/cookieprivacy/hplcompany_Cookie Policy.svg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "xl",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "have a privacy question?",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary"
+    }
+  ]
+}

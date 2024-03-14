@@ -1,0 +1,11 @@
+{
+  "fonts": {
+    "google": {
+      "families": ["Rufina:400,600,700"]
+    }
+  },
+  "theme": {
+    "headerFontFamily": ["Rufina", "sans-serif"],
+    "bodyFontFamily": ["Average Sans", "sans-serif"]
+  }
+}
