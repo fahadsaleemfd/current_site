@@ -30,7 +30,7 @@ const MediaBuyingService = props => {
       <Container variant='full' sx={styles.mediabuyingContainer}>
         <Features content={content['features']} />
       </Container>
-      <Divider space='5' />
+      <Divider space='5' /> 
       <Divider space='5' />
       <Clients content={content['approach']} />
       <Divider space='4' />

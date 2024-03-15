@@ -7,7 +7,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-airbnb.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-airbnb.svg",
         "alt": "alt text"
       }
     },
@@ -18,7 +18,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-amazon-web-services.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-amazon-web-services.svg",
         "alt": "alt text"
       }
     },
@@ -29,7 +29,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-shopify.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-shopify.svg",
         "alt": "alt text"
       }
     },
@@ -40,7 +40,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-confluence.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-confluence.svg",
         "alt": "alt text"
       }
     },
@@ -51,7 +51,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-linkedin.svg",
         "alt": "alt text"
       }
     },
@@ -62,7 +62,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-linkedin.svg",
         "alt": "alt text"
       }
     },
@@ -73,7 +73,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "src": "../../../../assets/flexiblocks/companies/company-linkedin.svg",
         "alt": "alt text"
       }
     }

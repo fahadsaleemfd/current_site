@@ -16,7 +16,7 @@
   ],
   "images": [
     {
-      "src": "../../../assets/flexiblocks/innerpage/services-01/clients.jpg",
+      "src": "../../../../assets/flexiblocks/innerpage/services-01/clients.jpg",
       "alt": "alt text",
       "radius": "lg",
       "shadow": "lg"
