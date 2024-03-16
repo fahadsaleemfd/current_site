@@ -39,7 +39,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/hplcompany_Growth.svg",
+        "src": "../../../../assets/flexiblocks/icons/hplcompany_Growth.svg",
         "size": "lg",
         "color": "beta"
       }
@@ -66,7 +66,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/hpl_communicationsPerson.svg",
+        "src": "../../../../assets/flexiblocks/icons/hpl_communicationsPerson.svg",
         "size": "lg",
         "color": "alpha"
       }
@@ -93,7 +93,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/hplcompany_Product Marketing.svg",
+        "src": "../../../../assets/flexiblocks/icons/hplcompany_Product Marketing.svg",
         "size": "lg",
         "color": "alpha"
       }
@@ -120,7 +120,7 @@
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/hpl_values_Involved.svg",
+        "src": "../../../../assets/flexiblocks/icons/hpl_values_Involved.svg",
         "size": "lg",
         "color": "beta"
       }

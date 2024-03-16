@@ -11,7 +11,7 @@
         }
       ],
       "icon": {
-        "src": "../../assets/hpl_communicationsPerson.svg",
+        "src": "../../../assets/hpl_communicationsPerson.svg",
         "size": "lg",
         "color": "omegaDark"
       },
@@ -35,7 +35,7 @@
         }
       ],
       "icon": {
-        "src": "../../assets/flexiblocks/icons/bx-mobile-alt.svg",
+        "src": "../../../assets/flexiblocks/icons/bx-mobile-alt.svg",
         "size": "lg",
         "color": "omegaDark"
       },
@@ -59,7 +59,7 @@
         }
       ],
       "icon": {
-        "src": "../../assets/flexiblocks/icons/bx-mail-send.svg",
+        "src": "../../../assets/flexiblocks/icons/bx-mail-send.svg",
         "size": "lg",
         "color": "omegaDark"
       },
@@ -83,7 +83,7 @@
         }
       ],
       "icon": {
-        "src": "../../assets/flexiblocks/icons/bx-directions.svg",
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
         "size": "lg",
         "color": "omegaDark"
       },

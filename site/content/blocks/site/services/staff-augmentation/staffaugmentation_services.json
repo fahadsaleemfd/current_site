@@ -42,7 +42,7 @@
   ],
   "images": [
     {
-      "src": "../../../assets/services/landingicons/SVG/hplcompany_services_contact_card.svg",
+      "src": "../../../../assets/services/landingicons/SVG/hplcompany_services_contact_card.svg",
       "alt": "alt text",
       "radius": "lg"
     }
