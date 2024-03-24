@@ -5,6 +5,9 @@ import ContentText from "@solid-ui-components/ContentText";
 import ContentImages from "@solid-ui-components/ContentImages";
 import ContentButtons from "@solid-ui-components/ContentButtons";
 import WithDefaultContent from "@solid-ui-blocks/WithDefaultContent";
+import DOBE from "../../../../../content/assets/flexiblocks/shared/dobe.svg"
+
+
 
 const styles = {
   wrapper: {
@@ -31,12 +34,13 @@ const FooterBlock01 = ({ content: { images, collection } }) => {
               </GLink>
             </Box>
             <Box pt="2" mb={[2, 4]}>
-              © {new Date().getFullYear()}, the hpl company. All Rights
+              © {new Date().getFullYear()}, the hpl company. All Rights 
               Reserved.
             </Box>
-            <Box pt="1" mb={[2, 4]}>
-              1541 N Marion St Unit 18011, Denver, Colorado 80218
-            </Box>
+            <Box pt="1" mb={[2, 4]} sx={{display:'flex', alignItems:"center" , gap:"8px"}}>
+            <img src={DOBE} height={40} width={40} /> 
+             <p>1541 N Marion St Unit 18011, Denver, Colorado 80218</p>
+            </Box>  
           </Box>
           {collection?.map(
             ({ text, buttons }, index) =>

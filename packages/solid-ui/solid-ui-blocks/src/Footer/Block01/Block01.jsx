@@ -7,6 +7,8 @@ import PoweredByGatsby from '@solid-ui-components/PoweredByGatsby'
 import ContentButtons from '@solid-ui-components/ContentButtons'
 import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
+
+
 const styles = {
   wrapper: {
     position: `relative`,
@@ -21,6 +23,7 @@ const styles = {
 }
 
 const FooterBlock01 = ({ content: { images, collection } }) => {
+  console.log(images)
   return (
     <Box sx={styles.wrapper}>
       <Container px='4'>
@@ -32,7 +35,7 @@ const FooterBlock01 = ({ content: { images, collection } }) => {
               </GLink>
             </Box>
             <Box pt='2' mb={[2, 4]}>
-              © {new Date().getFullYear()}, the hpl company. All Rights Reserved.
+              © {new Date().getFullYear()}, the hpl company. All Rights Reserved. 
             </Box>
           </Box>
           {collection?.map(

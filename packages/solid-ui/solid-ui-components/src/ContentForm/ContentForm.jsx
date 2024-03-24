@@ -74,13 +74,8 @@ const ContentForm = ({ id, form: { action, fields, buttons } = {} }) => {
   }
 
   return (
-    <form
-      css={css(styles.form)}
-      onSubmit={onSubmit}
-      method='POST'
-      action={action}
-      demo={action ? undefined : 'demo'}
-    >
+   <form name="contact" method="POST" data-netlify="true">
+       <input type="hidden" name="contact" value="contact" />
       <Box variant='forms.row'>
         {fields?.map(({ identifier, value, ...props }, index) => {
           let Component
